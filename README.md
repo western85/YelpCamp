@@ -1,2 +1,2 @@
 # YelpCamp
-## [YelpCamp Website](https://dashboard.heroku.com/apps/royal-worms-93532/access)
+## [YelpCamp Website](https://royal-worms-93532.herokuapp.com/)
